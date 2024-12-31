@@ -1,0 +1,67 @@
+body{
+  background-image: linear-gradient(to right,gray,darkblue);
+}
+
+.header {
+  padding: 80px; /* some padding */
+  text-align: center; /* center the text */
+  background: #1abc9c; /* green background */
+  color: blue; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 40px;
+}
+
+/* RESERVE YOUR SLOT NOW */
+h1 {
+  color: white;
+  text-align: center;
+  font-style: sans-serif;
+  font-family: sans-serif;
+
+}
+
+/* Firstname , Lastname */
+h2 {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  font-style: time new roman;
+}
+
+/* BOOK AN APPOINTMENT*/
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-style: times;
+}
+
+/* DATE AND TIME */
+h4 {
+  color: white;
+  text-align: center;
+  font-size: 17px;
+  font-style: ;
+}
+
+/*SCHEDULE*/
+h6 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-style: times;
+}
+h8 {
+  color: white;
+  text-align: left;
+  font-size: 15px;
+  font-style: times;
+}
+p {
+  font-family: white;
+  font-size: 20px;
+}
+
